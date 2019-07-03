@@ -1,0 +1,10 @@
+tempo_chegada 5
+num_produtos 5
+max_clientes 2
+produtos_max 4
+produtos_min 2
+cliente_desistir 20
+cliente_alterar 10
+cliente_prioritario 20
+max_empregados 3
+tempo_atendimento 6
